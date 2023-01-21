@@ -1,4 +1,4 @@
-// Copyright 2022 by mathosho (ilusha stetskiy)
+// Copyright 2022 by kris aesthetf
 #include <stdio.h>
 #include <stdlib.h>
 int input_mas(int *array, int n);
